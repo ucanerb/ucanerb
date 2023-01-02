@@ -3,9 +3,6 @@
 <h1 align="center">Hi 👋, I'm Caner from Turkey.</h1>
 <h3 align="center">A Civil Engineer with huge interest on programming</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ucanerb&label=Profile%20views&color=0e75b6&style=flat" alt="ucanerb" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ucanerb" alt="ucanerb" /></a> </p>
 
 - 📫 How to reach me **umutcanerbayuk@gmail.com**
 
